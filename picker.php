@@ -6,7 +6,7 @@ Author: Andrea Landonio
 Author URI: http://www.andrealandonio.it
 Text Domain: picker
 Domain Path: /languages/
-Version: 1.1.1
+Version: 1.1.2
 License: GPL v3
 
 Picker
@@ -44,7 +44,7 @@ if ( ! class_exists( 'Picker_Plugin' ) ) :
         /**
          * @var string The plugin version
          */
-        public $version = '1.1.1';
+        public $version = '1.1.2';
 
         /**
          * @var Picker_Plugin The single instance of the class
