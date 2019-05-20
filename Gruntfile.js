@@ -55,7 +55,8 @@ module.exports = function (grunt) {
 			deploy: {
 				options: {
 					plugin_slug: 'picker',
-					build_dir: 'deploy',
+                    svn_user: 'lando1982',
+                    build_dir: 'deploy',
 					assets_dir: 'assets'
 				},
 			}

@@ -56,14 +56,14 @@ Picker plugin provides many filters to extend default behavior of the plugin cor
 To better understand how you can interact with plugin filters, here are some examples.
 If you want, you can modify the default <template_path> (usually "picker/" folder), with a folder in your theme root. In the following example, adding the function to your "functions.php" theme file, we are telling to Picker plugin to search template files inside a "templates/" folder in your theme root.
 
-` function modify_picker_template_path() {
+`function modify_picker_template_path() {
 	return 'templates';
 }
 add_filter( 'picker_template_path', 'modify_picker_template_path' ); `
 
 Also, you can modify the default post title (usually "post_title" field), adding for example a prefix/suffix. In the following example, adding the function to your "functions.php" theme file, we are telling to Picker plugin to call your function before return to template the item post title value.
 
-` function modify_picker_post_title( $value ) {
+`function modify_picker_post_title( $value ) {
 	return 'my_prefix ' . $value;
 }
 add_filter( 'picker_item_title', 'modify_picker_post_title' ); `
