@@ -3,7 +3,7 @@ Contributors: lando1982
 Tags: usability, picker, pick, admin, widget, Post, organize, manage
 Requires at least: 4.0
 Tested up to: 5.6
-Stable tag: 1.1.4
+Stable tag: 1.1.5
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 
@@ -159,6 +159,9 @@ No, for now only standard post types are available
 4. Admin settings page
 
 == Changelog ==
+
+= 1.1.5 - 2020-12-09 =
+* Tested up to latest WordPress releases
 
 = 1.1.3 - 2019-05-22 =
 * Updated WordPress requirements
