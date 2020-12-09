@@ -2,7 +2,7 @@
 Contributors: lando1982
 Tags: usability, picker, pick, admin, widget, Post, organize, manage
 Requires at least: 4.0
-Tested up to: 5.5
+Tested up to: 5.6
 Stable tag: 1.1.4
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html

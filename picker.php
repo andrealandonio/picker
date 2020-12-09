@@ -10,7 +10,7 @@ Version: 1.1.4
 License: GPL v3
 
 Picker
-Copyright (C) 2013-2019, Andrea Landonio - landonio.andrea@gmail.com
+Copyright (C) 2013-2020, Andrea Landonio - landonio.andrea@gmail.com
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
