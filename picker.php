@@ -6,7 +6,7 @@ Author: Andrea Landonio
 Author URI: http://www.andrealandonio.it
 Text Domain: picker
 Domain Path: /languages/
-Version: 1.1.5
+Version: 1.1.6
 License: GPL v3
 
 Picker
